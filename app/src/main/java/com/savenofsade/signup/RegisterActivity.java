@@ -6,6 +6,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.view.WindowManager;
 
+// Register Activity
 public class RegisterActivity extends AppCompatActivity {
 
     @Override
